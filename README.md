@@ -1,4 +1,7 @@
 # GeForce Now Web Extension
+
+## This extension no longer works due to changes in Chrome API. Feel free to contribute any changes and they will be approved.
+
 A simple web browser extension that help you play games on Nvidia's GeForce Now on unsupported browsers. This extension works only on chromium browsers (Edge, Chrome, Opera etc.)
 
 ## Adding the Extension
